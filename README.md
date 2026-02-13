@@ -4,7 +4,7 @@
   
   ### AI Engineer | Machine Learning Researcher | Computer Vision Specialist
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=600&lines=Building+Scalable+AI+Systems;LLM+Architecture+%7C+Fine-tuning+%7C+From+Scratch;Computer+Vision+%7C+Generative+AI;MLOps+%7C+Production+ML)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+Scalable+AI+Systems;Training+LLMs+From+Scratch;Computer+Vision+%7C+Generative+AI;MLOps+%7C+Production+ML)](https://git.io/typing-svg)
 </div>
 
 ---

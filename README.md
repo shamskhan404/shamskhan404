@@ -47,7 +47,7 @@ I'm an AI Engineer specializing in **Computer Vision** and **Large Language Mode
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-FF6B6B?style=for-the-badge)
 ![Transformers](https://img.shields.io/badge/Transformers-FFB71B?style=for-the-badge)
 ![LoRA](https://img.shields.io/badge/LoRA-PEFT-9B59B6?style=for-the-badge)
-![QLoRA](https://img.shields.io/badge/QLoRA-4-bit-27AE60?style=for-the-badge)
+![QLoRA](https://img.shields.io/badge/QLoRA-4%20bit-27AE60?style=for-the-badge)
 
 ### **Computer Vision**
 ![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
